@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\bin\Debug\net6.0\TotalScore.exe
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\bin\Debug\net6.0\TotalScore.deps.json
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\bin\Debug\net6.0\TotalScore.runtimeconfig.json
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\bin\Debug\net6.0\TotalScore.dll
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\bin\Debug\net6.0\TotalScore.pdb
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\TotalScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\TotalScore.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\TotalScore.AssemblyInfo.cs
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\TotalScore.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\TotalScore.dll
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\refint\TotalScore.dll
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\TotalScore.pdb
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\TotalScore.genruntimeconfig.cache
+C:\Users\user\source\repos\TotalScore\TotalScore\TotalScore\obj\Debug\net6.0\ref\TotalScore.dll
